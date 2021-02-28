@@ -10,7 +10,7 @@
 
 |Dashboard|Cart|
 |-|-|
-|<img src="docs/Dashboard.png" width="100%">|<img src="docs/Cart.png" width="100%">|
+|<img src="docs/Dashboard.png" width="450px">|<img src="docs/Cart.png" width="450px">|
 
 ---
 
