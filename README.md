@@ -1,5 +1,5 @@
 ####  Bootcamp - GoStack 11
-# 🚀 Desafio 07 - Fundamentos ReactJS (GoFinances Web)
+# 🚀 Desafio 08 - Fundamentos React-Native (GoMarketplace App Mobile)
 
 ## Sobre
 - Criar uma nova aplicação em React Native com TypeScript, para praticar os conceitos de rotas, Async Storage e a Context API.
